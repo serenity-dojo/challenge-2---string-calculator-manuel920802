@@ -38,7 +38,6 @@ public class Calculator {
     }
 }
 
-//throw new IllegalMathsOperatorException("Operation Not supported");
 
 // Solution using Stack
 
